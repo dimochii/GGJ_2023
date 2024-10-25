@@ -30,5 +30,12 @@ The game’s aesthetic and narrative were inspired by the theme of "roots" in tw
 - **Visual Roots**: Roots are woven into the environment design and obstacles, symbolizing connection and growth.
 - **Heritage and Family Roots**: Rockie’s journey through the forest symbolizes reconnecting with one's origins, learning from family, and understanding our place within a larger community.
 
+## 🎉🙌 Acknowledgments
+
+We would like to thank everyone who participated in the Game Jam and the NCGM group at FEUP for hosting this inspiring event. We hope you enjoy **Rockie's Origins** as much as we enjoyed developing it! 
+
 ## 📷 Screenshots
+
+
+
 
