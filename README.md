@@ -57,5 +57,12 @@ We would like to thank everyone who participated in the Game Jam and the NCGM gr
 *Figure 5: Owl instructing player how to interact*
 
 ![chat](docs/chat_mushroombrother.png)
+
 *Figure 6: Rockie chatting with his brother*
+
+<p align="center">
+  <img src="https://github.com/dimochii/GGJ_2023/blob/main/docs/gameplay_lvl1.gif" alt="Rockie's Origins Gameplay GIF">
+</p>
+
+*Figure 7: Rockie's Origins Gameplay GIF*
 
