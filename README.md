@@ -2,7 +2,7 @@
 
 **A Platform Adventure Game Developed for Global Game Jam 2023**
 
-Hosted by NCGM at FEUP, "Rockie's Origins" is a platformer created during the Global Game Jam 2023 using Gamemaker. The theme was "roots," and we explored this theme in both literal and metaphorical senses, crafting a journey that reflects both nature’s grounding presence and a deeper sense of family heritage.
+Kindly hosted by NCGM at FEUP, "Rockie's Origins" is a platformer created during the Global Game Jam 2023 using Gamemaker and developed within 48 hours by our group, "The Owls", composed of 5 elements. The theme was "roots," and we explored this theme in both literal and metaphorical senses, crafting a journey that reflects both nature’s grounding presence and a deeper sense of family heritage.
 
 ## 🌄 Story Overview
 
@@ -36,6 +36,26 @@ We would like to thank everyone who participated in the Game Jam and the NCGM gr
 
 ## 📷 Screenshots
 
+![Start Menu](docs/start_menu.png)
 
+*Figure 1: The Start Menu*
 
+![Level1](docs/level1.png)
+
+*Figure 2: Level 1*
+
+![Level2](docs/level2.png)
+
+*Figure 3: Level 2*
+
+![Level3](docs/level3.png)
+
+*Figure 4: Level 3*
+
+![interaction_instructions](docs/owl_instructions.png)
+
+*Figure 5: owl instructing player how to interact*
+
+![chat](docs/chat_mushroombrother.png)
+*Figure 6: Rockie chatting with his brother*
 
