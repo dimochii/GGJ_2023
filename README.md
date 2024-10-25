@@ -20,7 +20,7 @@ With our story we intend for the players to experience that life is about growth
 3. **Ancestral Mountain** 🏔️ – The final, challenging area where Rockie finds his mother and learns about the importance of his roots.
 
 ### Key Features
-- ** Mechanics**: Navigate through challenging terrains, and collect items.
+- **Mechanics**: Navigate through challenging terrains, and collect items.
 - **Interactive Dialogue**: Engage in meaningful conversations with Rockie’s family, gaining wisdom along the way.
 - **Puzzle Elements**: Help Rockie's siblings by collecting flowers, mushrooms, and discovering your way out.
 
@@ -54,7 +54,7 @@ We would like to thank everyone who participated in the Game Jam and the NCGM gr
 
 ![interaction_instructions](docs/owl_instructions.png)
 
-*Figure 5: owl instructing player how to interact*
+*Figure 5: Owl instructing player how to interact*
 
 ![chat](docs/chat_mushroombrother.png)
 *Figure 6: Rockie chatting with his brother*
